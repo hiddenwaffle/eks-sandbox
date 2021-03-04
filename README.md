@@ -1,6 +1,6 @@
 # eks-sandbox
 
-## Tutorial
+## Reference
 
 https://www.youtube.com/watch?v=QThadS3Soig
 
